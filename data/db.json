@@ -1,0 +1,12 @@
+{
+    "posts":[
+        {
+            "title": "Its a weekend", 
+            "id": 1
+        },
+        {
+            "title": "Twende to party--dear", 
+            "id": 2
+        }
+    ]
+}
